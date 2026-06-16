@@ -1,4 +1,4 @@
-# MATLAB simulation code
+# Simulation code
 
 This folder contains the MATLAB simulation code used to calculate swimming dynamics for the model swimmer described in the associated PNAS article.
 
