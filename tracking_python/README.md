@@ -1,4 +1,4 @@
-# Python tracking code
+# 3D tracking code
 
 This folder contains the Python tracking script and representative example image files used to reconstruct 3D trajectories from microscopy image sequences.
 
