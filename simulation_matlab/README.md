@@ -1,6 +1,6 @@
 # Simulation code
 
-This folder contains the MATLAB simulation code used to calculate swimming dynamics for the model swimmer described in the associated PNAS article.
+This folder contains the MATLAB simulation code used to calculate swimming dynamics for the model T. brucei described in the associated PNAS article.
 
 ## Folder structure
 
