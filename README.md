@@ -1,6 +1,6 @@
 # Trypanosoma brucei swimming analysis codes
 
-This repository contains the simulation and tracking codes used for the analyses reported in our associated PNAS article on *Trypanosoma brucei* swimming dynamics.
+This repository contains the simulation and tracking codes used for the analyses reported in our associated paper (xxxxxxx) on *Trypanosoma brucei* swimming dynamics.
 
 The repository includes two main components:
 
@@ -61,27 +61,14 @@ Running `main.m` generates simulation results, parameter records, and summary fi
 
 See `simulation_matlab/README.md` for details.
 
-## Software requirements
-
-The Python tracking code requires:
-
-```text
-numpy
-matplotlib
-opencv-python
-imutils
-```
-
-The MATLAB simulation code was developed and tested in MATLAB. No external input data are required for running the default simulation scripts.
-
 ## Data and example files
 
 Representative example image sequences are included in `tracking_python/` to demonstrate the tracking workflow. The MATLAB simulation code does not require external input data for the default parameter scan.
 
 ## Citation
 
-If you use this repository, please cite the associated PNAS article.
+If you use this repository, please cite the associated paper (xxxxx).
 
 ## Notes
 
-This repository provides the code version associated with the PNAS publication. Numerical parameters used in the tracking and simulation analyses are defined near the beginning of the corresponding scripts and can be modified for other datasets or parameter sets.
+Numerical parameters used in the tracking and simulation analyses are defined near the beginning of the corresponding scripts and can be modified for different datasets or parameter sets.
