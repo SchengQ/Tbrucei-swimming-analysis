@@ -58,4 +58,4 @@ The `results/` folder contains saved simulation outputs for each parameter set. 
 
 ## Notes
 
-The code was developed and tested in MATLAB. The numerical parameters used for the simulations are defined in `main.m`. Users can modify these parameters to run additional simulations or reproduce specific parameter sets.
+The code was developed and tested in MATLAB. Simulation parameters are defined in main.m and can be modified to run additional simulations or reproduce specific parameter sets.
