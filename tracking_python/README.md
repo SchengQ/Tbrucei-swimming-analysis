@@ -55,6 +55,9 @@ python Tracking.py
 
 The script reads the calibration library and video frames, calculates radial intensity profiles, compares the video frames with the calibration library using correlation analysis, and reconstructs the 3D trajectory.
 
+>[!IMPORTANT]
+>The script displays the Z-position plot and 3D trajectory plot during execution. Please close each plot window to allow the script to continue and finish writing the output files.
+
 ## Output files
 
 The script generates:
@@ -62,7 +65,7 @@ The script generates:
 * `Three_correlations.txt`: correlation values around the best-matched calibration plane for each frame.
 * `XYZ Trajectory.txt`: reconstructed 3D trajectory coordinates.
 
-The script also displays plots of the reconstructed Z position and the 3D trajectory.
+The script also displays plots of the Z position and the 3D trajectory.
 
 ## Notes
 
