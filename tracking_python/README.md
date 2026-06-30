@@ -19,22 +19,16 @@ tracking_python/
     └── ...
 ```
 
-## Required Python packages
+## Tested environment
 
-Install the required packages using:
+The Python tracking code was tested with Python 3.7.9 on Windows. Other Python 3 versions may also work but were not specifically tested. Required packages are listed in `requirements.txt`.
 
-```bash
-pip install -r requirements.txt
-```
+The tested package versions included:
 
-The required packages are:
-
-```text
-numpy
-matplotlib
-opencv-python
-imutils
-```
+* `numpy==1.21.6`
+* `matplotlib==3.5.3`
+* `opencv-python==4.13.0.92`
+* `imutils==0.5.4`
 
 ## Input files
 
