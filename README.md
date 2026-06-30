@@ -1,6 +1,6 @@
 # Trypanosoma brucei swimming analysis codes
 
-This repository contains the simulation and tracking codes used for the analyses reported in our associated paper (xxxxxxx) on *Trypanosoma brucei* swimming dynamics.
+This repository contains the simulation and tracking codes used for the analyses reported in our associated paper, “Corkscrew motion of Trypanosome brucei is driven by helical beating of the flagellum and facilitated by its bent shape” (https://doi.org/10.1073/pnas.2536746123).
 
 The repository includes two main components:
 
@@ -67,7 +67,9 @@ Representative example image sequences are included in `tracking_python/` to dem
 
 ## Citation
 
-If you use this repository, please cite the associated paper (xxxxx).
+If you find this repository useful for your research, please cite the associated paper:
+
+S. Cheng, D. Das, M. Barchuk, R. Armstrong, M. M. Klingbeil, B. Thomases, and S. Zhou, “Corkscrew motion of Trypanosoma brucei is driven by helical beating of the flagellum and facilitated by its bent shape,” Proceedings of the National Academy of Sciences 123, e2536746123 (2026). https://doi.org/10.1073/pnas.2536746123
 
 ## Notes
 
